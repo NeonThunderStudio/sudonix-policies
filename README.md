@@ -7,10 +7,10 @@
 
 ---
 
-## 🚀 Como Fazer o Upload no Repositório syncstack-policies
+## 🚀 Como Fazer o Upload no Repositório sudonix-policies
 
 ### Passo 1: Acesse o Repositório
-1. Vá para: https://github.com/NeonThunderStudio/syncstack-policies
+1. Vá para: https://github.com/NeonThunderStudio/sudonix-policies
 2. Certifique-se de estar logado
 
 ### Passo 2: Upload da Página data-deletion.html
@@ -28,7 +28,7 @@
 
 ### Passo 4: Aguarde a Publicação
 - O GitHub Pages leva **1-2 minutos** para atualizar
-- A página estará disponível em: `https://neonthunderstudio.github.io/syncstack-policies/data-deletion.html`
+- A página estará disponível em: `https://neonthunderstudio.github.io/sudonix-policies/data-deletion.html`
 
 ---
 
@@ -37,7 +37,7 @@
 Após o upload, use esta URL no formulário de "Segurança dos Dados":
 
 ```
-https://neonthunderstudio.github.io/syncstack-policies/data-deletion.html
+https://neonthunderstudio.github.io/sudonix-policies/data-deletion.html
 ```
 
 ---
@@ -56,7 +56,7 @@ https://neonthunderstudio.github.io/syncstack-policies/data-deletion.html
 
 Depois de fazer o upload:
 
-1. Teste a URL: https://neonthunderstudio.github.io/syncstack-policies/data-deletion.html
+1. Teste a URL: https://neonthunderstudio.github.io/sudonix-policies/data-deletion.html
 2. Volte para o Google Play Console
 3. Na seção "Segurança dos dados" → "Coleta de dados e segurança"
 4. Cole a URL no campo "URL para exclusão de contas"
@@ -65,4 +65,4 @@ Depois de fazer o upload:
 ---
 
 **Criado em:** 1 de dezembro de 2025  
-**Para:** Publicação do SyncStack na Google Play Store
+**Para:** Publicação do Sudonix na Google Play Store
